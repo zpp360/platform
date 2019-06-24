@@ -1,0 +1,17 @@
+#访问的根路径
+server:
+  servlet:
+    context-path: /platform
+#端口号
+  port: 8080
+#编码
+  tomcat:
+    uri-encoding: utf-8
+
+#数据库设置
+spring:
+  datasource:
+    url: jdbc:mysql://192.168.0.116:3306/cesi1?useUnicode=true&characterEncoding=utf8&characterSetResults=utf8&allowMultiQueries=true
+    username: root
+    password: sh123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
