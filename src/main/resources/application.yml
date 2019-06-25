@@ -16,6 +16,13 @@ spring:
     password: sh123456
     driver-class-name: com.mysql.cj.jdbc.Driver
 
+# 定位模板的目录
+  mvc:
+    view:
+      prefix: classpath:/templates/
+# 给返回的页面添加后缀名
+      suffix: .html
+
 #netty相关配置
 #不能用localhost,否则启动报异常:Unresolved address
 #tcp监听的端口

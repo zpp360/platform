@@ -8,6 +8,7 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 import java.net.InetAddress;
+import java.net.InetSocketAddress;
 
 
 @Component
@@ -20,6 +21,10 @@ public class ServerHandler extends SimpleChannelInboundHandler<String> {
     public void channelRead0(ChannelHandlerContext ctx, String msg)
             throws Exception {
         log.info("client msg:"+msg);
+        InetSocketAddress ipSocket = (InetSocketAddress) ctx.channel().remoteAddress();
+        String clientIp = ipSocket.getAddress().getHostAddress();
+        log.info("clientIp:"+clientIp);
+        log.info("clientPort:"+ipSocket.getPort());
         String clientIdToLong= ctx.channel().id().asLongText();
         log.info("client long id:"+clientIdToLong);
         String clientIdToShort= ctx.channel().id().asShortText();

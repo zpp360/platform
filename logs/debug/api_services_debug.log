@@ -1,1 +1,245 @@
-2019-06-24-13-45 [http-nio-8080-exec-1] [com.zhengpp.platform.controller.HelloContorller] [ERROR] - error:hello
+2019-06-25-13-53 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - RamoteAddress : /127.0.0.1:65163 active !
+2019-06-25-13-53 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client msg:GET /ws HTTP/1.1
+Host: 127.0.0.1:8090
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: file://
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Sec-WebSocket-Key: Vi1aw6cLM7Uen3hHcIr7UQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+2019-06-25-13-53 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client long id:6045cbfffe9df808-00002ac0-00000001-7b4d325b7f3a527c-1afdd96c
+2019-06-25-13-53 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client short id:1afdd96c
+2019-06-25-13-53 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - 
+Channel is disconnected
+2019-06-25-14-04 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - RamoteAddress : /127.0.0.1:49602 active !
+2019-06-25-14-04 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client msg:GET /ws HTTP/1.1
+Host: 127.0.0.1:8090
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: file://
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Sec-WebSocket-Key: mZBrUuyR4X3UPMgvyza8Lg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+2019-06-25-14-04 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client long id:6045cbfffe9df808-00002b74-00000001-af015bf19a346090-ab9c05cd
+2019-06-25-14-04 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client short id:ab9c05cd
+2019-06-25-14-04 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - 
+Channel is disconnected
+2019-06-25-14-13 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - RamoteAddress : /127.0.0.1:50309 active !
+2019-06-25-14-13 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client msg:GET /ws HTTP/1.1
+Host: 127.0.0.1:8090
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: file://
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Sec-WebSocket-Key: b59LR65f7/UMruxZ9EdqVw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+2019-06-25-14-14 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client long id:6045cbfffe9df808-00002b60-00000001-360e29f55bccf892-b06fdb72
+2019-06-25-14-14 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client short id:b06fdb72
+2019-06-25-14-14 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - 
+Channel is disconnected
+2019-06-25-14-14 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - RamoteAddress : /127.0.0.1:50369 active !
+2019-06-25-14-14 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client msg:GET /ws HTTP/1.1
+Host: 127.0.0.1:8090
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: file://
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Sec-WebSocket-Key: pXPNTUTgEi2sXdJXN3/NzA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+2019-06-25-14-14 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client long id:6045cbfffe9df808-00002b60-00000002-dc1aede113cde0da-cf1bf0bd
+2019-06-25-14-14 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client short id:cf1bf0bd
+2019-06-25-14-14 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - 
+Channel is disconnected
+2019-06-25-14-15 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - RamoteAddress : /127.0.0.1:50406 active !
+2019-06-25-14-15 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client msg:GET /ws HTTP/1.1
+Host: 127.0.0.1:8090
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: file://
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Sec-WebSocket-Key: xlEROdyFF0PpKbkAdgR9ZQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+2019-06-25-14-15 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client long id:6045cbfffe9df808-00002b60-00000003-cdd9c7658cce5858-f2cb54e1
+2019-06-25-14-15 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client short id:f2cb54e1
+2019-06-25-14-15 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - 
+Channel is disconnected
+2019-06-25-14-16 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - RamoteAddress : /127.0.0.1:50463 active !
+2019-06-25-14-16 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client msg:GET /ws HTTP/1.1
+Host: 127.0.0.1:8090
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: file://
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Sec-WebSocket-Key: pP1CRVaUEbsL4t4DYBvuIw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+2019-06-25-14-16 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client long id:6045cbfffe9df808-00002b60-00000004-1bc3c0345ccf19f4-32bda22b
+2019-06-25-14-16 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client short id:32bda22b
+2019-06-25-14-16 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - 
+Channel is disconnected
+2019-06-25-14-17 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - RamoteAddress : /127.0.0.1:50545 active !
+2019-06-25-14-17 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client msg:GET /ws HTTP/1.1
+Host: 127.0.0.1:8090
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: file://
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Sec-WebSocket-Key: 9b1PdJ8u6jCBC5DlXeFJpw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+2019-06-25-14-17 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client long id:6045cbfffe9df808-00002b60-00000005-fe14861874c066a8-5737f7ea
+2019-06-25-14-17 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client short id:5737f7ea
+2019-06-25-14-17 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - 
+Channel is disconnected
+2019-06-25-14-18 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - RamoteAddress : /127.0.0.1:50623 active !
+2019-06-25-14-18 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client msg:GET /ws HTTP/1.1
+Host: 127.0.0.1:8090
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: file://
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Sec-WebSocket-Key: Qjappin5XEAp5e3eOGJmTQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+2019-06-25-14-18 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client long id:6045cbfffe9df808-00002b60-00000006-fea2f90c00c19630-5346e881
+2019-06-25-14-18 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client short id:5346e881
+2019-06-25-14-18 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - 
+Channel is disconnected
+2019-06-25-14-19 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - RamoteAddress : /127.0.0.1:50670 active !
+2019-06-25-14-19 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client msg:GET /ws HTTP/1.1
+Host: 127.0.0.1:8090
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: file://
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Sec-WebSocket-Key: 3T2bZ3xJB6ljBDnhioHIOw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+2019-06-25-14-20 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client long id:6045cbfffe9df808-00002b60-00000007-4d9fadbeb0c24ae2-07614f75
+2019-06-25-14-20 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client short id:07614f75
+2019-06-25-14-26 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - 
+Channel is disconnected
+2019-06-25-14-26 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - RamoteAddress : /127.0.0.1:51150 active !
+2019-06-25-14-26 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client msg:GET /ws HTTP/1.1
+Host: 127.0.0.1:8090
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: file://
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Sec-WebSocket-Key: xtdzUbA8qZG8le63Vn/6dw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+2019-06-25-14-26 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - clientIp:127.0.0.1
+2019-06-25-14-26 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client long id:6045cbfffe9df808-000016a4-00000001-6f4ec710d5187761-ce3b3f69
+2019-06-25-14-26 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client short id:ce3b3f69
+2019-06-25-14-26 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - 
+Channel is disconnected
+2019-06-25-14-27 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - RamoteAddress : /127.0.0.1:51230 active !
+2019-06-25-14-27 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client msg:GET /ws HTTP/1.1
+Host: 127.0.0.1:8090
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: file://
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Sec-WebSocket-Key: 3krXh14fZSRJoiBX+szscg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+2019-06-25-14-27 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - clientIp:127.0.0.1
+2019-06-25-14-27 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - clientPort:51230
+2019-06-25-14-27 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client long id:6045cbfffe9df808-00002830-00000001-dcf2456f991955ce-33235fc5
+2019-06-25-14-27 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client short id:33235fc5
+2019-06-25-14-27 [nioEventLoopGroup-3-1] [com.zhengpp.platform.netty.ServerHandler] [INFO] - 
+Channel is disconnected
+2019-06-25-14-32 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - RamoteAddress : /127.0.0.1:51572 active !
+2019-06-25-14-32 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client msg:GET /ws HTTP/1.1
+Host: 127.0.0.1:8090
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: file://
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Sec-WebSocket-Key: 4969sbO8UBXgj32+5/FLdw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+2019-06-25-14-32 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - clientIp:127.0.0.1
+2019-06-25-14-32 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - clientPort:51572
+2019-06-25-14-32 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client long id:6045cbfffe9df808-00002830-00000002-334a4106031e286e-48aaab81
+2019-06-25-14-32 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - client short id:48aaab81
+2019-06-25-14-32 [nioEventLoopGroup-3-2] [com.zhengpp.platform.netty.ServerHandler] [INFO] - 
+Channel is disconnected
