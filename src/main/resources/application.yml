@@ -1,17 +1,37 @@
-#���ʵĸ�·��
+#项目名称
 server:
   servlet:
     context-path: /platform
-#�˿ں�
+#端口号
   port: 8080
-#����
+#tomcat编码
   tomcat:
     uri-encoding: utf-8
 
-#���ݿ�����
+#数据里链接
 spring:
   datasource:
     url: jdbc:mysql://192.168.0.116:3306/cesi1?useUnicode=true&characterEncoding=utf8&characterSetResults=utf8&allowMultiQueries=true
     username: root
     password: sh123456
     driver-class-name: com.mysql.cj.jdbc.Driver
+
+#netty相关配置
+#不能用localhost,否则启动报异常:Unresolved address
+#tcp监听的端口
+tcp:
+  port: 8090
+# bossGroup的线程数
+boss:
+  thread:
+    count: 2
+# worker的线程数
+worker:
+  thread:
+    count: 2
+#是否使用长连接
+so:
+  keepalive:  true
+  backlog: 100
+
+
